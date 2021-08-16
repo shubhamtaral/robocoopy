@@ -1,6 +1,6 @@
 # How to use Robocopy
 
-## By using Robocopy We can Backup Windows fie
+## Backup Windows fie
 
 ### Example:
 
